@@ -3,7 +3,7 @@ from ops import *
 import torch
 import torch.nn.functional as F
 import numpy as np
-from scipy.ndimage import gaussian_filter
+
 
 
 #Local Dense Groups (LDGs)
