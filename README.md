@@ -42,7 +42,7 @@ We use DIV2K dataset for training and Set5, Set14, B100, and Urban100 dataset fo
   ```
 2. To accelerate training, we first convert training images to h5 format as follow (h5py module has to be installed).
 ```shell
-$ cd datasets && python div2h5.py
+$ python div2h5.py
 ```
 3. Other benchmark datasets can be downloaded in [Google Drive](https://drive.google.com/drive/folders/1t2le0-Wz7GZQ4M2mJqmRamw5o4ce2AVw?usp=sharing). Same as DIV2K, please put all the datasets in `dataset` directory.
 
