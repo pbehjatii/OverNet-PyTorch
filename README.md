@@ -74,7 +74,7 @@ $ python train.py --patch_size 64 --batch_size 64 --max_steps 600000 --lr 0.001 
  ```
 
 ### Results
-We provide our qualitative results on four benchmark datasets including Set5, Set14, B100 and Urban100 for scale factor x2, x3, and x4. [[Google Drive](https://drive.google.com/drive/folders/1svSJq8UlU8Yq90tLfByhv_0ctPKv5PiN?usp=sharing)]
+We achieved state-of-the-art performance on lightweigh image SR, denoising and deblurring. All visual results of OverNet for scale factor x2, x3, and x4 can be downloaded [here.](https://drive.google.com/drive/folders/1svSJq8UlU8Yq90tLfByhv_0ctPKv5PiN?usp=sharing)
 
 <details>
 <summary>Lightweight Single Image Super-Resolution (click me)</summary>
