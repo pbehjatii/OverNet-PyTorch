@@ -90,7 +90,7 @@ OverNet (paper)             |x4|32.32&nbsp;&nbsp;&nbsp;0.8956|28.71&nbsp;&nbsp;&
  **OverNet**              |x4|32.26&nbsp;&nbsp;&nbsp;0.8958|28.64&nbsp;&nbsp;&nbsp;0.7821|27.59&nbsp;&nbsp;&nbsp;0.7364|26.18&nbsp;&nbsp;&nbsp;0.7879|
   
 </div>
-<img src="assets/results.png">
+<img src="assets/results.png" width="1000" height="600" />
 
 
 
