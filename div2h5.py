@@ -19,7 +19,7 @@ for subdir in ["HR", "X2", "X3", "X4"]:
 
     else:
         im_paths = glob.glob(os.path.join(dataset_dir,
-                                          "DIV2K_{}_LR".format(dataset_type),
+                                          "DIV2K_{}_LR_bicubic".format(dataset_type),
                                           subdir, "*.png"))
     im_paths.sort()
     grp = f.create_group(subdir)
