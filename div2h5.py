@@ -4,10 +4,10 @@ import h5py
 import scipy.misc as misc
 import numpy as np
 import cv2
-dataset_dir = "datasetS/DIV2K/"
+dataset_dir = "datasets/DIV2K/"
 dataset_type = "train"
 
-f = h5py.File("datasetS/DIV2K_{}.h5".format(dataset_type), "w")
+f = h5py.File("datasets/DIV2K_{}.h5".format(dataset_type), "w")
 
 dt = h5py.special_dtype(vlen=np.dtype('uint8'))
 
