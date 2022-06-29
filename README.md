@@ -76,6 +76,10 @@ $ python train.py --patch_size 64 --batch_size 64 --max_steps 600000 --lr 0.001 
 ### Results
 We provide our qualitative results on four benchmark datasets including Set5, Set14, B100 and Urban100 for scale factor x2, x3, and x4. [[Google Drive](https://drive.google.com/drive/folders/1svSJq8UlU8Yq90tLfByhv_0ctPKv5PiN?usp=sharing)]
 
+<details>
+<summary>Lightweight Single Image Super-Resolution (click me)</summary>
+<p align="center">
+
 **Note:** The PSNR and SSIM reported in the paper are outdated. We have updated the results as following:
 <div align="center">
   
@@ -89,8 +93,14 @@ OverNet (paper)             |x3|34.49&nbsp;&nbsp;&nbsp;0.9267|30.47&nbsp;&nbsp;&
 OverNet (paper)             |x4|32.32&nbsp;&nbsp;&nbsp;0.8956|28.71&nbsp;&nbsp;&nbsp;0.7826|27.67&nbsp;&nbsp;&nbsp;0.7373|26.31&nbsp;&nbsp;&nbsp;0.7923|
  **OverNet**              |x4|32.26&nbsp;&nbsp;&nbsp;0.8958|28.64&nbsp;&nbsp;&nbsp;0.7821|27.59&nbsp;&nbsp;&nbsp;0.7364|26.18&nbsp;&nbsp;&nbsp;0.7879|
   
+
+
+<img width="780" height="500" src="assets/results.png">
 </div>
-<img src="assets/results.png" width="1000" height="600" />
+</p>
+</details>
+
+
 
 
 
