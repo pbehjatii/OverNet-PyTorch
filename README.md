@@ -74,6 +74,7 @@ $ python train.py --patch_size 64 --batch_size 64 --max_steps 600000 --lr 0.001 
  ```
 
 ### Results
+We provide our results on four benchmark dataset (Set5, Set14, B100 and Urban100). [Google Drive](https://drive.google.com/drive/folders/1svSJq8UlU8Yq90tLfByhv_0ctPKv5PiN?usp=sharing)
 **Note:** The PSNR and SSIM reported in the paper are outdated. We have updated the results as following:
 <div align="center">
   
