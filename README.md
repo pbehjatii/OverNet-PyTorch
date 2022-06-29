@@ -104,7 +104,7 @@ OverNet (paper)             |x4|32.32&nbsp;&nbsp;&nbsp;0.8956|28.71&nbsp;&nbsp;&
 <details>
 <summary>Image denoising and deblurring (click me)</summary>
 <p align="center">
-The quantitative results will be released soon.
+Updated quantitative results will be released soon.
 <img width="780" height="500" src="assets/overnet_BDN.png">
 </p>
 </details>
