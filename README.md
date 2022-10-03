@@ -110,7 +110,7 @@ Updated quantitative results will be released soon.
 </p>
 </details>
 
-### Results
+### OverNet_to_ONNX
 To see how we export OverNet from PYTORCH to ONNX and running it using ONNX RUNTIME please visit [here.](https://github.com/pbehjatii/SuperResolution-to-ONNX)
 ## Citation
 ```
